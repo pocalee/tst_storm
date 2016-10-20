@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="352daa2f-f62e-4fe2-a167-1e3ba37af139" name="storm" url="http://www.campinglog.co.kr/tst">
+        <fileTransfer host="211.115.80.121" port="21" rootFolder="/home/pensionvalley/campinglog.co.kr/html/tst" password="dfcfdfc6dfdddfc1dfcedfc6dfd9dfd0dfc8dfdbdfc6dfd8df8bdfeadf8b" username="pensionvalley">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
