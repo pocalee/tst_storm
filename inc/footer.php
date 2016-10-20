@@ -5,4 +5,4 @@
  * Date: 2016-10-20
  * Time: 오전 11:06
  */
-echo 'footer2';
+echo 'footer';
